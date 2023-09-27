@@ -342,6 +342,7 @@ footer .logo {
 .card-content {
   border: 1px solid var(--CORNFLOWER );
   padding: 32px 16px;
+  border-top: none;
 }
 
 .gallery-card-name {
